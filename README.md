@@ -43,9 +43,15 @@ Analyzing the code step by step can make you understand the exact working & proc
   <img src="https://user-images.githubusercontent.com/63542593/118705913-6c522680-b836-11eb-8443-ed615c4fa406.png" width="400">
   <img src="https://user-images.githubusercontent.com/63542593/118705920-6d835380-b836-11eb-9bc6-b3b8af14cc8d.png" width="400"> 
 </p>
+
 <p align="center">
+  
 training dataset accuracy, validation accuracy and training dataset loss, validation loss with each epoch!
+
 </p>
 
-![Final_Accuracy](https://user-images.githubusercontent.com/63542593/118705923-6e1bea00-b836-11eb-81b9-ab6c50d98c2e.png)
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/63542593/118706756-5bee7b80-b837-11eb-9773-951382fa66b1.png" width="400">
 
+</p>
