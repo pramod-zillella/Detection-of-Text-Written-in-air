@@ -46,7 +46,7 @@ Analyzing the code step by step can make you understand the exact working & proc
 
 <p align="center">
   
-training dataset accuracy, validation accuracy and training dataset loss, validation loss with each epoch!
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; training dataset accuracy, validation accuracy and training dataset loss, validation loss with each epoch!
 
 </p>
 
