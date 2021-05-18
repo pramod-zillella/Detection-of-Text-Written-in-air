@@ -55,3 +55,5 @@ Analyzing the code step by step can make you understand the exact working & proc
 <img src="https://user-images.githubusercontent.com/63542593/118706756-5bee7b80-b837-11eb-9773-951382fa66b1.png" width="400">
 
 </p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Accuracy on the created Test dataset
