@@ -2,6 +2,9 @@
 Our project involves the recognition of one single digit that is written on the air. To achieve this, we have adopted a deep learning-based approach. The model adopted is a convolutional neural network (CNN) which is most commonly used in the analyses of visual imagery. With this project, we got an accuracy of 98% on the MNIST dataset.
 Analyzing the code step by step can make you understand the exact working & process followed.
 
+For accessing the interactive notebooks:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pramod04121999/Detection-of-Text-Written-in-air/HEAD)
+
 ## Implementation
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63542593/118702389-7c680700-b832-11eb-86eb-60306a02c104.png" width="600">
