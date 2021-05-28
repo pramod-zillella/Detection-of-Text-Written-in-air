@@ -86,7 +86,7 @@ categories.
 
 <p align="center">
   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; training dataset accuracy, validation accuracy and training dataset loss, validation loss with each epoch!
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Training dataset training accuracy, validation accuracy and training dataset training loss, validation loss with each epoch!
 
 </p>
 
